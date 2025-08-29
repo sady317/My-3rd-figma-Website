@@ -85,6 +85,7 @@ nav .btn-1 button {
 .section-2-parents {
   background-color: #131313;
    border-bottom: 1px solid white;
+   
   height: 600px;
   display: flex;
   align-items: center;
@@ -101,6 +102,7 @@ nav .btn-1 button {
   flex-direction: column;
   justify-content: center;
   gap: 20px;
+ 
  
 }
 
@@ -130,7 +132,7 @@ nav .btn-1 button {
 }
 .section-3 {
   max-width: 1200px;
-  height: 600px;
+  height: 660px;
   padding: 14px;
   margin: auto;
   background-color: #131313;
